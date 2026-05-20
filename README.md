@@ -19,8 +19,7 @@ The project also integrates SHAP and Counterfactual Explainable AI to improve mo
 
 ## 📂 Dataset
 Dataset used from Kaggle:
-
-https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease
+https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data?utm_source=chatgpt.com
 
 ---
 
@@ -111,6 +110,6 @@ Machine learning algorithms effectively diagnose thyroid disease using clinical 
 
 ## 👨‍💻 Author
 J. VINAY  
-Roll No: 4511-23-733-070
+
 
 ---
